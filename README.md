@@ -1,4 +1,6 @@
 # Snake
-Snake game made by me
+Snake game
 
-Update 3/11/19: This is just terrible.
+
+bad
+
